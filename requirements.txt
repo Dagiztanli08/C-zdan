@@ -1,0 +1,13 @@
+import wmi
+import os
+from shutil import copyfile,copytree,ignore_patterns
+import shutil
+import time
+
+python   version003.6.3
+pip install WMI==1.4.9
+
+##Masaüstünde "1" isimli klasör oluştur...
+
+
+
