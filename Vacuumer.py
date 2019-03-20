@@ -54,12 +54,13 @@ while sample.a==True:
     sample.Scan()
     if  sample.a==False:
         sample.copytree((x[-1].DeviceID+"\\"),"C:\\Users\\Admin\\Desktop\\1")
+     print("Dosya adedi : " + sample.say)
         
     else:
         pass
 
 
-
+#Görsel arayüz tasarlanacak(Kontrol paneli tarzı...)
 
 
 
